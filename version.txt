@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/atshaw42-lab/Repo/refs/heads/main/0.0.1.zip
+0.0.1
